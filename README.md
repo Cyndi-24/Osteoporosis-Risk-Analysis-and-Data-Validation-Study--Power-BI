@@ -1,5 +1,4 @@
-# Osteoporosis Risk Analysis & Data Validation Study
-## By Ofolebe Cyndi
+# OSTEOPOROSIS RISK ANALYSIS AND DATA VALIDATION STUDY
 
 ![image alt](https://github.com/Cyndi-24/Osteoporosis-Risk-Analysis-and-Data-Validation-Power-BI/blob/main/osteoporosis%20project/images/osteoporosis%20image.png)
 
