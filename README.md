@@ -1,4 +1,4 @@
-# OSTEOPOROSIS RISK ANALYSIS AND DATA VALIDATION STUDY
+# Osteoporosis Risk Analysis & Data Validation Study 
 
 ![image alt](https://github.com/Cyndi-24/Osteoporosis-Risk-Analysis-and-Data-Validation-Power-BI/blob/main/osteoporosis%20project/images/osteoporosis%20image.png)
 
