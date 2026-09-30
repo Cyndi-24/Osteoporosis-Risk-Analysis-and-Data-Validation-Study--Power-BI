@@ -26,16 +26,6 @@ This project aimed to:
 * DAX
 * Microsoft Excel
 
-
-# Skills Demonstrated
-
-- Healthcare data analysis and responsible interpretation
-- Data cleaning, quality assessment, and validation
-- Power Query transformation
-- DAX measure and KPI development
-- Interactive dashboard design
-- Exploratory analysis and insight communication 
-
 # Data Preparation and Validation
 
 The dataset was cleaned and reviewed for missing values, duplicates, inconsistent categories, and unusual demographic or clinical records before analysis.
